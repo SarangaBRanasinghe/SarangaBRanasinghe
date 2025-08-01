@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saranga Ranasinghe</h1>
 <h3 align="center">Building user-friendly digital experiences with a focus on impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarangabranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sarangabranasinghe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarangabranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sarangabranasinghe" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
 
