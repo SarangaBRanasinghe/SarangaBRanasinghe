@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangabranasinghe&show_icons=true&locale=en" alt="sarangabranasinghe" /></p>
 </div>
 </div>
+
+![snake gif](https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/output/github-snake-dark.svg)
