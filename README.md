@@ -62,13 +62,16 @@
 
 ---
 
+<h3 align="center">📊 GitHub Analytics</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangabranasinghe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangabranasinghe&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarangabranasinghe&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarangabranasinghe&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </p>
+
 
 ---
 
