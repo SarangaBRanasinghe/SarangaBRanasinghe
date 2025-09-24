@@ -1,5 +1,6 @@
-
-
+<div align="right">
+  <img src="https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/main/assets/11512315.png" width="150"/>
+</div>
 <h1 align="center">Hi 👋, I'm Saranga Ranasinghe</h1>
 <h3 align="center">Building user-friendly digital experiences with a focus on impact.</h3>
 
