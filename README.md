@@ -1,14 +1,13 @@
-<div align="right">
-  <img src="https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/main/assets/11512315.png" width="150"/>
-</div>
 <h1 align="center">Hi 👋, I'm Saranga Ranasinghe</h1>
+
 <h3 align="center">Building user-friendly digital experiences with a focus on impact.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarangabranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sarangabranasinghe" />
 </p>
-
----
+<div align="right">
+  <img src="https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/main/assets/11512315.png" width="150"/>
+</div>
 
 - 🌱 I’m currently learning **NextJS**  
 - 📫 How to reach me **sarangaranasinghe.official@gmail.com**  
