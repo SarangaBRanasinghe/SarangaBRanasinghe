@@ -27,7 +27,7 @@
   <a href="https://instagram.com/_saa_ra_zz" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://dribbble.com/saranga" target="blank">
+  <a href="https://dribbble.com/Saranga183" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/sara_ngaranasinghe" target="blank">
