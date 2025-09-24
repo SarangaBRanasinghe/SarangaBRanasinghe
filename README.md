@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Saranga Ranasinghe</h1>
 <h3 align="center">Building user-friendly digital experiences with a focus on impact.</h3>
 
