@@ -1,82 +1,192 @@
-<h1 align="center">Hi 👋, I'm Saranga Ranasinghe</h1>
+<div align="center">
 
-<h3 align="center">Building user-friendly digital experiences with a focus on impact.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF2D78&center=true&vCenter=true&width=750&lines=%5BSYS%3A%3ABOOT%5D+Initializing...;IDENTITY%3A+SARANGA+RANASINGHE+%E2%99%80;ALIAS%3A+%22SARA%22;ROLE%3A+FULL-STACK+DEVELOPER+%2B+UI%2FUX+DESIGNER;CRAFTING+CODE+%26+EXPERIENCES+%E2%9C%A8;STATUS%3A+ONLINE+%E2%96%88)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarangabranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sarangabranasinghe" />
-</p>
-<div align="right">
-  <img src="https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/main/assets/11512315.png" width="150"/>
 </div>
 
-- 🌱 I’m currently learning **NextJS**  
-- 📫 How to reach me **sarangaranasinghe.official@gmail.com**  
-- ⚡ Fun fact: **Call me Sara**
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   ♀  SARA.DEV  ·  FULL-STACK DEVELOPER  ·  UI/UX DESIGNER  ♀    ║
+║                                                                   ║
+║   > She builds it. She designs it. She ships it.                  ║
+║   > Building digital experiences with purpose & aesthetics.       ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![](https://img.shields.io/badge/♀-GIRL_WHO_CODES-FF2D78?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/STATUS-ONLINE-00FFD1?style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/LEARNING-NEXT.JS-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/LOCATION-SRI_LANKA_🇱🇰-FF2D78?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sarangabranasinghe&label=VISITORS&color=00FFD1&style=for-the-badge)
+
+</div>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/saranga-ranasinghe-372288283" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/saranga.ranasinghe.2025" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_saa_ra_zz" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/Saranga183" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/CelestialHer_CR" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+### `> SYSTEM_PROFILE.exe`
+
+```javascript
+const sara = {
+  name      : "Saranga Ranasinghe",
+  alias     : "Sara ♀",
+  pronouns  : "she / her",
+  origin    : "Sri Lanka 🇱🇰",
+
+  roles     : [
+    "Full-Stack Developer 💻",
+    "UI/UX Designer 🎨",
+  ],
+
+  stack: {
+    frontend  : ["Angular", "HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    backend   : ["Node.js", "Java", "PHP", "C"],
+    database  : ["MySQL", "MS SQL Server"],
+    design    : ["Figma", "Wireframing", "Prototyping"],
+    testing   : ["Postman"],
+    learning  : ["Next.js ⚡"],
+  },
+
+  superpower : "Bridging beautiful design with solid code",
+  available  : true,
+  contact    : "sarangaranasinghe.official@gmail.com",
+};
+```
+
+<br clear="right"/>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
-</p>
+### `> TECH_ARSENAL`
+
+**▸ FRONTEND**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFD1)
+
+**▸ BACKEND & DATABASE**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**▸ DESIGN**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center">
+### `> WHAT_I_DO`
+
+```
+  ╭──────────────────────────────╮   ╭──────────────────────────────╮
+  │   💻 FULL-STACK DEV          │   │   🎨 UI/UX DESIGN            │
+  │                              │   │                              │
+  │  → REST APIs & backends      │   │  → User research & flows     │
+  │  → Angular & Node.js apps    │   │  → Wireframes & prototypes   │
+  │  → Database design           │   │  → Figma UI systems          │
+  │  → Clean, scalable code      │   │  → Pixel-perfect interfaces  │
+  ╰──────────────────────────────╯   ╰──────────────────────────────╯
+                      ↓
+         [ She does BOTH — and does it well. ]
+```
+
+---
+
+### `> NEURAL_STATS`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sarangabranasinghe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF2D78&icon_color=00FFD1&text_color=c9d1d9&bg_color=0d1117" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangabranasinghe&layout=compact&langs_count=8&hide_border=true&title_color=FF2D78&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarangabranasinghe&theme=highcontrast&hide_border=true&ring=FF2D78&fire=00FFD1&currStreakLabel=FF2D78&sideLabels=8A2BE2&dates=c9d1d9&background=0d1117" />
+
+</div>
+
+---
+
+### `> ACHIEVEMENT_MATRIX`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarangabranasinghe&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+---
+
+### `> ACTIVITY_TRACE`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarangabranasinghe&bg_color=0d1117&color=FF2D78&line=00FFD1&point=8A2BE2&area_color=0d1117&area=true&hide_border=true&custom_title=COMMIT%20TRACE" />
+
+</div>
+
+---
+
+### `> NETWORK_NODES`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saranga-ranasinghe-372288283)
+[![Dribbble](https://img.shields.io/badge/DRIBBBLE-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Saranga183)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/CelestialHer_CR)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_saa_ra_zz)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/saranga.ranasinghe.2025)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarangaranasinghe.official@gmail.com)
+
+</div>
+
+---
+
+### `> SNAKE_PROTOCOL`
+
+<div align="center">
+  <img src="https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/output/github-snake-dark.svg" />
+</div>
+
+---
+
+### `> FUEL_INJECTION`
+
+<div align="center">
   <a href="https://www.buymeacoffee.com/sara">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangabranasinghe&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Languages" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "Design is not just what it looks like —               ║
+║    it's how it works."  — Steve Jobs                      ║
+║                                                           ║
+║   ♀  [ END OF TRANSMISSION ]  ·  SARA.DEV  ·  v2.0.26   ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarangabranasinghe&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://github.com/SarangaBRanasinghe/SarangaBRanasinghe/blob/output/github-snake-dark.svg" alt="snake gif" />
-</p>
+</div>
