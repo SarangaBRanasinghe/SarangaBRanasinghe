@@ -109,12 +109,12 @@ const sara = {
 
 ### `> NEURAL_STATS`
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sarangabranasinghe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF2D78&icon_color=00FFD1&text_color=c9d1d9&bg_color=0d1117" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangabranasinghe&layout=compact&langs_count=8&hide_border=true&title_color=FF2D78&text_color=c9d1d9&bg_color=0d1117" />
 
-</div>
+</div> -->
 
 <div align="center">
 
